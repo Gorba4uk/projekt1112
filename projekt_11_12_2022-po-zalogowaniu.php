@@ -13,7 +13,7 @@ $fullName = $_GET['fullName'];
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Projekt HTML + CSS + PHP + JS</title>
+  <title>Project HTML + CSS + PHP + JS</title>
   <link rel="stylesheet" type="text/css" href="style/style.css">
 </head>
 <body>

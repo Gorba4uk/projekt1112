@@ -19,7 +19,7 @@ if (isset($_GET['error'])) {
 <body>
   <div class="w100 h50" style="border: double; border-color: black;">
     <img class = "pb10 left pl10" src="https://www.teb.pl/img/logo-edu.png">
-    <p class = "pr10"><b>Imię i Nazwisko - dopiero po zalogowaniu się</b></p>
+    <p class = "pr10"><b>Imię i Nazwisko - pojawi sie dopiero po zalogowaniu się</b></p>
   </div>
 
   </br></br>
