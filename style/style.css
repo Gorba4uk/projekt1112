@@ -1,0 +1,88 @@
+body {
+    background: rgb(34,193,195);
+    background: radial-gradient(circle, rgba(34,193,195,1) 24%, rgba(253,187,45,1) 87%);
+    color: black;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.w25 {
+    width: 25%;
+    color: white;
+}
+
+.left {
+    float: left;
+}
+
+.w100 {
+    width: 100%;
+    text-align: right;
+}
+
+.pr10 {
+    padding-right: 10%;
+}
+
+.pl10 {
+    padding-left: 10%;
+}
+
+.h350 {
+    height: 350px;
+}
+
+.h30 {
+    height: 30px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.pt10 {
+    padding-top: 10px;
+}
+
+.pb10 {
+    padding-bottom: 10px;
+}
+
+.mb10 {
+    margin-bottom: 20px;
+}
+
+.white {
+    background-color: #f1f1f1;
+    border-radius: 25px;
+}
+
+.errorBox {
+    background-color: #ff6c40;
+    border-radius: 25px;
+}
+
+.h50 {
+    height: 70px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    background-color: white;
+}
+
+a:focus {
+    color: black;
+    background-color: red;
+}
+
+p:hover {
+    color: darkgoldenrod;
+}
